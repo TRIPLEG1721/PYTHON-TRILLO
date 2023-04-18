@@ -1,6 +1,6 @@
 # Python Data Analysis
 ---
-
+Read me
 ## Gettings Started
 
 1. Download/Clone this repository 
@@ -16,4 +16,6 @@ $conda activate deeplearning
 4. Run the Jupyter lab
 ```bash
 (deeplearning)$jupyter lab
+
+
 ```
